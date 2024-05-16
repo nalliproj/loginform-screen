@@ -1,0 +1,8 @@
+{
+    "login":"Login",
+    "email_address":"Email Address",
+    "password":"Password",
+    "forgotpwd":"Forgot your password?",
+    "invalid_email":"Please enter a valid email address",
+    "fields_empty":"Invalid form fields!"
+}
